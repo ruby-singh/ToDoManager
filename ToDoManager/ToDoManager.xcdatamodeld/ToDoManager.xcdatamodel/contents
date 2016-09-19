@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Automatic">
+    <entity name="ToDoEntity" representedClassName="ToDoEntity" syncable="YES">
+        <attribute name="toDoAddedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="toDoDescription" optional="YES" attributeType="String" minValueString="0" syncable="YES"/>
+        <attribute name="toDoTitle" attributeType="String" minValueString="1" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ToDoEntity" positionX="-54" positionY="-9" width="128" height="90"/>
+    </elements>
+</model>
